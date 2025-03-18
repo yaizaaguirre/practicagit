@@ -1,0 +1,9 @@
+añadir cosa nueva a la rama 
+
+git add .
+git commit -m "aquí el mensaje"
+git push origin master
+
+y liego para mirar que no quede nada por subir
+
+git status
